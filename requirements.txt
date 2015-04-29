@@ -1,0 +1,5 @@
+Django==1.4.8
+South==0.7.6
+smartypants==1.6.0.3
+titlecase==0.5.1
+svn+http://typogrify.googlecode.com/svn/trunk@16
